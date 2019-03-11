@@ -1,0 +1,27 @@
+{
+  "name": "travelagencyusingnodejs",
+  "version": "1.0.0",
+  "description": "Building a website using NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shokhrukhkh/TravelAgencyUsingNodeJS.git"
+  },
+  "author": "Shokhrukh Khalilov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shokhrukhkh/TravelAgencyUsingNodeJS/issues"
+  },
+  "homepage": "https://github.com/shokhrukhkh/TravelAgencyUsingNodeJS#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mysql2": "^1.6.5",
+    "nodemon": "^1.18.10",
+    "pug": "^2.0.3",
+    "sequelize": "^4.43.0"
+  }
+}
